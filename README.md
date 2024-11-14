@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @arujang
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning R, SAS, Python, SPSS
-  
-- 📫 How to reach me @arujang
-- ⚡ Fun fact: i love knitting 
+- 🌱 Languages and tools: R, SAS, Python, SPSS
+
 
 <!---
 arujang/arujang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
