@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @arujang
-- 👀 I’m interested in data analytics
-- 🌱 Languages and tools: R, SAS, Python, SPSS
+- Experienced financial data analyst with a background in credit risk and audit. 
+- Languages and tools: R, SAS, Python, SPSS, SQL, Power BI
 
 
 <!---
